@@ -14,12 +14,19 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/tusharsinghbisht/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/tusharsinghbisht/leetcode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/tusharsinghbisht/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/tusharsinghbisht/leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/tusharsinghbisht/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/tusharsinghbisht/leetcode/tree/master/0567-permutation-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/tusharsinghbisht/leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
