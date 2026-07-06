@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/tusharsinghbisht/leetcode/tree/master/0118-pascals-triangle) |
+| [1222-remove-covered-intervals](https://github.com/tusharsinghbisht/leetcode/tree/master/1222-remove-covered-intervals) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/tusharsinghbisht/leetcode/tree/master/0567-permutation-in-string) |
+## Sorting
+|  |
+| ------- |
+| [1222-remove-covered-intervals](https://github.com/tusharsinghbisht/leetcode/tree/master/1222-remove-covered-intervals) |
 <!---LeetCode Topics End-->
