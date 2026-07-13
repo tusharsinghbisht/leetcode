@@ -59,11 +59,13 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tusharsinghbisht/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tusharsinghbisht/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/tusharsinghbisht/leetcode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/tusharsinghbisht/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/tusharsinghbisht/leetcode/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/tusharsinghbisht/leetcode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/tusharsinghbisht/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Breadth-First Search
 |  |
@@ -73,6 +75,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tusharsinghbisht/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tusharsinghbisht/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/tusharsinghbisht/leetcode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/tusharsinghbisht/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Binary Tree
 |  |
@@ -82,6 +85,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tusharsinghbisht/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tusharsinghbisht/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/tusharsinghbisht/leetcode/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/tusharsinghbisht/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Union-Find
 |  |
 | ------- |
@@ -90,4 +94,8 @@
 |  |
 | ------- |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+## Linked List
+|  |
+| ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/tusharsinghbisht/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
