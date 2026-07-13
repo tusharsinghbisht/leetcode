@@ -10,21 +10,18 @@ class Solution:
             return []
 
 
-        queue = deque([root])
+        q = deque([root])
         result = []
 
-        while queue:
-            level_size = len(queue)
-            current_level = [0]*level_size
-
-            for i in range(level_size):
-                node = queue.popleft()
-                current_level[i] = node.val
-
-                if node.left != None:
-                    queue.append(node.left)
-                if node.right != None:
-                    queue.append(node.right)
+        while q:
+            level = []
+            for _ in range(len(q)):
+                node = q.popleft()
+                level.append(node.val)
+                if node.left:
+                    q.append(node.left)
+                if node.right:
+                    q.append(node.right)
             
-            result.append(current_level)
+            result.append(level)
         return result[::-1]
