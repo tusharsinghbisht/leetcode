@@ -8,6 +8,7 @@
 | [0118-pascals-triangle](https://github.com/tusharsinghbisht/leetcode/tree/master/0118-pascals-triangle) |
 | [1222-remove-covered-intervals](https://github.com/tusharsinghbisht/leetcode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/tusharsinghbisht/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [2634-minimum-common-value](https://github.com/tusharsinghbisht/leetcode/tree/master/2634-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/tusharsinghbisht/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tusharsinghbisht/leetcode/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/tusharsinghbisht/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [2634-minimum-common-value](https://github.com/tusharsinghbisht/leetcode/tree/master/2634-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -35,6 +37,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/tusharsinghbisht/leetcode/tree/master/0567-permutation-in-string) |
+| [2634-minimum-common-value](https://github.com/tusharsinghbisht/leetcode/tree/master/2634-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -44,4 +47,8 @@
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/tusharsinghbisht/leetcode/tree/master/1212-sequential-digits) |
+## Binary Search
+|  |
+| ------- |
+| [2634-minimum-common-value](https://github.com/tusharsinghbisht/leetcode/tree/master/2634-minimum-common-value) |
 <!---LeetCode Topics End-->
