@@ -9,27 +9,26 @@ class Solution:
         if root == None:
             return []
             
-        prev = [root]
-        res = []
-        level = 0
-        while True:
-            r = []
-            if level % 2: #odd
-                prevr = prev[::-1]
-            else:
-                prevr = prev
-            for node in prevr:
-                r.append(node.val)
-            
-            res.append(r)
-            prev_ = []
-            for node in prev:
-                if node.left != None:
-                    prev_.append(node.left)
-                if node.right != None:
-                    prev_.append(node.right)
-                    
-            if not prev_:
-                return res
-            prev = prev_
-            level += 1
+        result = []
+        queue = deque([root])
+
+        is_left_to_right = True
+
+        while queue:
+            level_size = len(queue)
+            current_level = [0]*level_size
+
+            for i in range(level_size):
+                node = queue.popleft()
+                index = i if is_left_to_right else level_size-1-i
+                current_level[index] = node.val
+
+                if node.left:
+                    queue.append(node.left)
+                if node.right:
+                    queue.append(node.right)
+
+            result.append(current_level)
+            is_left_to_right = not is_left_to_right
+
+        return result
