@@ -40,4 +40,8 @@
 | ------- |
 | [1222-remove-covered-intervals](https://github.com/tusharsinghbisht/leetcode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/tusharsinghbisht/leetcode/tree/master/1256-rank-transform-of-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [1212-sequential-digits](https://github.com/tusharsinghbisht/leetcode/tree/master/1212-sequential-digits) |
 <!---LeetCode Topics End-->
