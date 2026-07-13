@@ -51,4 +51,20 @@
 |  |
 | ------- |
 | [2634-minimum-common-value](https://github.com/tusharsinghbisht/leetcode/tree/master/2634-minimum-common-value) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/tusharsinghbisht/leetcode/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/tusharsinghbisht/leetcode/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/tusharsinghbisht/leetcode/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/tusharsinghbisht/leetcode/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
