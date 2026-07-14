@@ -8,6 +8,7 @@
 | [0118-pascals-triangle](https://github.com/tusharsinghbisht/leetcode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/tusharsinghbisht/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tusharsinghbisht/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/tusharsinghbisht/leetcode/tree/master/0695-max-area-of-island) |
 | [1222-remove-covered-intervals](https://github.com/tusharsinghbisht/leetcode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/tusharsinghbisht/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2634-minimum-common-value](https://github.com/tusharsinghbisht/leetcode/tree/master/2634-minimum-common-value) |
@@ -73,6 +74,7 @@
 | [0130-surrounded-regions](https://github.com/tusharsinghbisht/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tusharsinghbisht/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tusharsinghbisht/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/tusharsinghbisht/leetcode/tree/master/0695-max-area-of-island) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Breadth-First Search
 |  |
@@ -87,6 +89,7 @@
 | [0130-surrounded-regions](https://github.com/tusharsinghbisht/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tusharsinghbisht/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tusharsinghbisht/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/tusharsinghbisht/leetcode/tree/master/0695-max-area-of-island) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Binary Tree
 |  |
@@ -104,6 +107,7 @@
 | [0130-surrounded-regions](https://github.com/tusharsinghbisht/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tusharsinghbisht/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tusharsinghbisht/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/tusharsinghbisht/leetcode/tree/master/0695-max-area-of-island) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
 |  |
@@ -120,4 +124,5 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/tusharsinghbisht/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tusharsinghbisht/leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/tusharsinghbisht/leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
