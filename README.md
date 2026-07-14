@@ -7,6 +7,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/tusharsinghbisht/leetcode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/tusharsinghbisht/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/tusharsinghbisht/leetcode/tree/master/0200-number-of-islands) |
 | [1222-remove-covered-intervals](https://github.com/tusharsinghbisht/leetcode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/tusharsinghbisht/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2634-minimum-common-value](https://github.com/tusharsinghbisht/leetcode/tree/master/2634-minimum-common-value) |
@@ -70,6 +71,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tusharsinghbisht/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tusharsinghbisht/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/tusharsinghbisht/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/tusharsinghbisht/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tusharsinghbisht/leetcode/tree/master/0547-number-of-provinces) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Breadth-First Search
@@ -83,6 +85,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tusharsinghbisht/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tusharsinghbisht/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/tusharsinghbisht/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/tusharsinghbisht/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tusharsinghbisht/leetcode/tree/master/0547-number-of-provinces) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Binary Tree
@@ -99,6 +102,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/tusharsinghbisht/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/tusharsinghbisht/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tusharsinghbisht/leetcode/tree/master/0547-number-of-provinces) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
@@ -115,4 +119,5 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/tusharsinghbisht/leetcode/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/tusharsinghbisht/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
