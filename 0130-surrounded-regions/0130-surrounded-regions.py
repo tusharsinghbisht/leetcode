@@ -8,13 +8,14 @@ class Solution:
         visited = [[False]*n for _ in range(m)]
         
         def dfs(i,j):
+            if board[i][j] != 'O' or visited[i][j]:
+                return
             visited[i][j] = True
             moves = [(-1,0),(1,0),(0,1),(0,-1)]
             for di, dj in moves:
                 ni, nj = i+di, j+dj
                 if not (ni < 0 or ni >= m or nj < 0 or nj >= n):
-                    if board[ni][nj] == 'O' and not visited[ni][nj]:
-                        dfs(ni, nj)
+                    dfs(ni, nj)
 
         tocheck = []
         for i in range(m):
