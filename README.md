@@ -9,6 +9,7 @@
 | [0130-surrounded-regions](https://github.com/tusharsinghbisht/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tusharsinghbisht/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/tusharsinghbisht/leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/tusharsinghbisht/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/tusharsinghbisht/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tusharsinghbisht/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/tusharsinghbisht/leetcode/tree/master/1036-rotting-oranges) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/tusharsinghbisht/leetcode/tree/master/0118-pascals-triangle) |
+| [0542-01-matrix](https://github.com/tusharsinghbisht/leetcode/tree/master/0542-01-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 | [0130-surrounded-regions](https://github.com/tusharsinghbisht/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tusharsinghbisht/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/tusharsinghbisht/leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/tusharsinghbisht/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/tusharsinghbisht/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/tusharsinghbisht/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tusharsinghbisht/leetcode/tree/master/0733-flood-fill) |
@@ -133,6 +136,7 @@
 | [0130-surrounded-regions](https://github.com/tusharsinghbisht/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tusharsinghbisht/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/tusharsinghbisht/leetcode/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/tusharsinghbisht/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/tusharsinghbisht/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tusharsinghbisht/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/tusharsinghbisht/leetcode/tree/master/1036-rotting-oranges) |
