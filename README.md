@@ -127,6 +127,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/tusharsinghbisht/leetcode/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/tusharsinghbisht/leetcode/tree/master/1039-find-the-town-judge) |
+| [1916-find-center-of-star-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Linked List
 |  |
