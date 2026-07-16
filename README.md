@@ -14,6 +14,7 @@
 | [0733-flood-fill](https://github.com/tusharsinghbisht/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/tusharsinghbisht/leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/tusharsinghbisht/leetcode/tree/master/1039-find-the-town-judge) |
+| [1073-number-of-enclaves](https://github.com/tusharsinghbisht/leetcode/tree/master/1073-number-of-enclaves) |
 | [1222-remove-covered-intervals](https://github.com/tusharsinghbisht/leetcode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/tusharsinghbisht/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2634-minimum-common-value](https://github.com/tusharsinghbisht/leetcode/tree/master/2634-minimum-common-value) |
@@ -85,6 +86,7 @@
 | [0547-number-of-provinces](https://github.com/tusharsinghbisht/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/tusharsinghbisht/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tusharsinghbisht/leetcode/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/tusharsinghbisht/leetcode/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Breadth-First Search
@@ -105,6 +107,7 @@
 | [0695-max-area-of-island](https://github.com/tusharsinghbisht/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tusharsinghbisht/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/tusharsinghbisht/leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/tusharsinghbisht/leetcode/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Binary Tree
@@ -124,6 +127,7 @@
 | [0200-number-of-islands](https://github.com/tusharsinghbisht/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tusharsinghbisht/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/tusharsinghbisht/leetcode/tree/master/0695-max-area-of-island) |
+| [1073-number-of-enclaves](https://github.com/tusharsinghbisht/leetcode/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Graph Theory
@@ -150,5 +154,6 @@
 | [0695-max-area-of-island](https://github.com/tusharsinghbisht/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tusharsinghbisht/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/tusharsinghbisht/leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/tusharsinghbisht/leetcode/tree/master/1073-number-of-enclaves) |
 | [4271-find-the-degree-of-each-vertex](https://github.com/tusharsinghbisht/leetcode/tree/master/4271-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
