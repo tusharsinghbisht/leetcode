@@ -19,9 +19,21 @@ class Solution:
 
             return True
 
+        def dfs(start):
+
+            for nbr in graph[start]:
+                if color[nbr] == -1:
+                    color[nbr] = 1 - color[start]
+                    if not dfs(nbr):
+                        return False
+                if color[nbr] == color[start]:
+                    return False
+            return True
+
         for i in range(n):
             if color[i] == -1:
-                if not bfs(i):
+                # if not bfs(i):
+                if not dfs(i):
                     return False
 
         return True
