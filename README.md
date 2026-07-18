@@ -92,6 +92,7 @@
 | [0695-max-area-of-island](https://github.com/tusharsinghbisht/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tusharsinghbisht/leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/tusharsinghbisht/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/tusharsinghbisht/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/tusharsinghbisht/leetcode/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
@@ -114,6 +115,7 @@
 | [0695-max-area-of-island](https://github.com/tusharsinghbisht/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tusharsinghbisht/leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/tusharsinghbisht/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/tusharsinghbisht/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/tusharsinghbisht/leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/tusharsinghbisht/leetcode/tree/master/1073-number-of-enclaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -145,6 +147,7 @@
 | [0133-clone-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/tusharsinghbisht/leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/tusharsinghbisht/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/tusharsinghbisht/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/tusharsinghbisht/leetcode/tree/master/1039-find-the-town-judge) |
 | [1916-find-center-of-star-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -179,4 +182,8 @@
 |  |
 | ------- |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/tusharsinghbisht/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/tusharsinghbisht/leetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
