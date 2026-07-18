@@ -5,8 +5,8 @@ class Solution:
         indegree = [0]*V
 
         for a, b in prerequisites:
-            adj[a].append(b)
-            indegree[b] += 1
+            adj[b].append(a)
+            indegree[a] += 1
 
 
         queue = deque([i for i in range(V) if indegree[i] == 0])
@@ -20,6 +20,6 @@ class Solution:
                     queue.append(node)
         
         if len(res) == V:
-            return res[::-1]
+            return res
         
         return []
