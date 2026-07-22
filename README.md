@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/tusharsinghbisht/leetcode/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/tusharsinghbisht/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/tusharsinghbisht/leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/0133-clone-graph) |
 | [0424-longest-repeating-character-replacement](https://github.com/tusharsinghbisht/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/tusharsinghbisht/leetcode/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/tusharsinghbisht/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/tusharsinghbisht/leetcode/tree/master/0127-word-ladder) |
 | [0316-remove-duplicate-letters](https://github.com/tusharsinghbisht/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/tusharsinghbisht/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -111,6 +113,7 @@
 | [0112-path-sum](https://github.com/tusharsinghbisht/leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tusharsinghbisht/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tusharsinghbisht/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0126-word-ladder-ii](https://github.com/tusharsinghbisht/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/tusharsinghbisht/leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/tusharsinghbisht/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/tusharsinghbisht/leetcode/tree/master/0133-clone-graph) |
@@ -210,4 +213,8 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/tusharsinghbisht/leetcode/tree/master/0316-remove-duplicate-letters) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/tusharsinghbisht/leetcode/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
