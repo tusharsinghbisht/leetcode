@@ -18,6 +18,7 @@
 | [1222-remove-covered-intervals](https://github.com/tusharsinghbisht/leetcode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/tusharsinghbisht/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [2634-minimum-common-value](https://github.com/tusharsinghbisht/leetcode/tree/master/2634-minimum-common-value) |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/tusharsinghbisht/leetcode/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/tusharsinghbisht/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4271-find-the-degree-of-each-vertex](https://github.com/tusharsinghbisht/leetcode/tree/master/4271-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
@@ -186,6 +187,7 @@
 ## Math
 |  |
 | ------- |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/tusharsinghbisht/leetcode/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/tusharsinghbisht/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -217,4 +219,8 @@
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/tusharsinghbisht/leetcode/tree/master/0126-word-ladder-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3824-number-of-unique-xor-triplets-i](https://github.com/tusharsinghbisht/leetcode/tree/master/3824-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
