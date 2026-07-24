@@ -1,19 +1,19 @@
 class Solution {
 public:
     int countPaths(int V, vector<vector<int>>& edges) {
-        vector<vector<pair<long, long>>> adj(V); // <node, time>[]
+        vector<vector<pair<int, int>>> adj(V); // <node, time>[]
         // creating adjancy list
         for (auto it: edges) {
             adj[it[0]].push_back({ it[1], it[2] });
             adj[it[1]].push_back({ it[0], it[2] });
         }
 
-        long mod = (long)(1e9 + 7);
+        int mod = (int)(1e9 + 7);
 
         // min heap to store < cost, node >
-        priority_queue<pair<long, long>, vector<pair<long, long>>, greater<pair<long, long>>> pq;
+        priority_queue<pair<long, int>, vector<pair<long, int>>, greater<pair<long, int>>> pq;
         vector<long> dist(V, LONG_MAX); // min dist to each node
-        vector<long> ways(V, 0); // no of ways a node can be reached
+        vector<int> ways(V, 0); // no of ways a node can be reached
         
         // for starting node dist is 0
         dist[0] = 0;
@@ -26,7 +26,7 @@ public:
         // iterate until empty pq
         while (!pq.empty()) {
             long dis = pq.top().first;
-            long node = pq.top().second;
+            int node = pq.top().second;
             pq.pop();
 
             if (dis > dist[node]) continue;
