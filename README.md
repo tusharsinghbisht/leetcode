@@ -19,6 +19,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/tusharsinghbisht/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/tusharsinghbisht/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2634-minimum-common-value](https://github.com/tusharsinghbisht/leetcode/tree/master/2634-minimum-common-value) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/tusharsinghbisht/leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/tusharsinghbisht/leetcode/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/tusharsinghbisht/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4271-find-the-degree-of-each-vertex](https://github.com/tusharsinghbisht/leetcode/tree/master/4271-find-the-degree-of-each-vertex) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [1212-sequential-digits](https://github.com/tusharsinghbisht/leetcode/tree/master/1212-sequential-digits) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/tusharsinghbisht/leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -193,6 +195,7 @@
 ## Math
 |  |
 | ------- |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/tusharsinghbisht/leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/tusharsinghbisht/leetcode/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/tusharsinghbisht/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -228,6 +231,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/tusharsinghbisht/leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/tusharsinghbisht/leetcode/tree/master/3824-number-of-unique-xor-triplets-i) |
 ## Heap (Priority Queue)
 |  |
