@@ -11,20 +11,24 @@ class Solution:
         if cnt == 0:
             return -1
 
-        pq = []
-        heappush(pq, (0, -1, src))
+        queue = deque()
+        price = [float("inf")]*n
+        price[src] = 0
 
-        while pq:
-            nodePrice, stop, node = heappop(pq)
+        queue.append((0, 0, src))
 
-            if stop > k:
+        while queue:
+            cost, stops, node = queue.popleft()
+
+            if stops > k:
                 continue
-            if node == dst:
-                return nodePrice
 
-            
             for adjNode, edgePrice in adj[node]:
-                heappush(pq, (nodePrice + edgePrice, stop+1, adjNode))
-
-        return -1
+                if price[adjNode] > cost + edgePrice:
+                    price[adjNode] = cost + edgePrice
+                    queue.append((cost+edgePrice, stops+1, adjNode))
+        
+        if price[dst] != float("inf"):
+            return price[dst]
+        return -1       
 
