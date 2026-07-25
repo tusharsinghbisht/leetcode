@@ -1,8 +1,7 @@
 class Solution:
     def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
         # simple dijkstra
-        V = n + 1
-        adj = [[] for _ in range(V)]
+        adj = defaultdict(list)
 
         for u, v, w in times:
             adj[u].append((v, w))
@@ -10,8 +9,7 @@ class Solution:
         pq = []
         heappush(pq, (0, k))
 
-        dist = [float("inf")]*V
-        dist[0] = -1
+        dist = { node: float("inf") for node in range(1, n+1) }
         dist[k] = 0
 
         while pq:
@@ -26,7 +24,7 @@ class Solution:
                     heappush(pq, (dist[adjNode], adjNode))
 
         
-        res = max(dist)
+        res = max(dist.values())
         if res == float("inf"):
             return -1
         return res
