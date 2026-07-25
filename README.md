@@ -68,6 +68,7 @@
 | ------- |
 | [1222-remove-covered-intervals](https://github.com/tusharsinghbisht/leetcode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/tusharsinghbisht/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [3859-maximum-product-of-two-digits](https://github.com/tusharsinghbisht/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/tusharsinghbisht/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
@@ -203,6 +204,7 @@
 | ------- |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/tusharsinghbisht/leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/tusharsinghbisht/leetcode/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3859-maximum-product-of-two-digits](https://github.com/tusharsinghbisht/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/tusharsinghbisht/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
