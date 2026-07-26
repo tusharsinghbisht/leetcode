@@ -10,6 +10,7 @@
 | [0200-number-of-islands](https://github.com/tusharsinghbisht/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/tusharsinghbisht/leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/tusharsinghbisht/leetcode/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/tusharsinghbisht/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/tusharsinghbisht/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/tusharsinghbisht/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/tusharsinghbisht/leetcode/tree/master/1036-rotting-oranges) |
@@ -67,6 +68,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/tusharsinghbisht/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1222-remove-covered-intervals](https://github.com/tusharsinghbisht/leetcode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/tusharsinghbisht/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [3859-maximum-product-of-two-digits](https://github.com/tusharsinghbisht/leetcode/tree/master/3859-maximum-product-of-two-digits) |
@@ -207,6 +209,7 @@
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/tusharsinghbisht/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/tusharsinghbisht/leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/tusharsinghbisht/leetcode/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/tusharsinghbisht/leetcode/tree/master/3859-maximum-product-of-two-digits) |
