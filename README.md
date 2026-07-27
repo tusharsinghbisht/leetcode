@@ -18,6 +18,7 @@
 | [1073-number-of-enclaves](https://github.com/tusharsinghbisht/leetcode/tree/master/1073-number-of-enclaves) |
 | [1222-remove-covered-intervals](https://github.com/tusharsinghbisht/leetcode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/tusharsinghbisht/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/tusharsinghbisht/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/tusharsinghbisht/leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2634-minimum-common-value](https://github.com/tusharsinghbisht/leetcode/tree/master/2634-minimum-common-value) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/tusharsinghbisht/leetcode/tree/master/3820-number-of-unique-xor-triplets-ii) |
@@ -71,6 +72,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/tusharsinghbisht/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1222-remove-covered-intervals](https://github.com/tusharsinghbisht/leetcode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/tusharsinghbisht/leetcode/tree/master/1256-rank-transform-of-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/tusharsinghbisht/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [3859-maximum-product-of-two-digits](https://github.com/tusharsinghbisht/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/tusharsinghbisht/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -255,6 +257,7 @@
 | ------- |
 | [0744-network-delay-time](https://github.com/tusharsinghbisht/leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/tusharsinghbisht/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/tusharsinghbisht/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/tusharsinghbisht/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Shortest Path
 |  |
