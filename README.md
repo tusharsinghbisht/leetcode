@@ -54,6 +54,7 @@
 | [0316-remove-duplicate-letters](https://github.com/tusharsinghbisht/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/tusharsinghbisht/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/tusharsinghbisht/leetcode/tree/master/0567-permutation-in-string) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/tusharsinghbisht/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [1222-remove-covered-intervals](https://github.com/tusharsinghbisht/leetcode/tree/master/1222-remove-covered-intervals) |
 | [1256-rank-transform-of-an-array](https://github.com/tusharsinghbisht/leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/tusharsinghbisht/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/tusharsinghbisht/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/tusharsinghbisht/leetcode/tree/master/3859-maximum-product-of-two-digits) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/tusharsinghbisht/leetcode/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
@@ -266,4 +268,8 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/tusharsinghbisht/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/tusharsinghbisht/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/tusharsinghbisht/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Counting Sort
+|  |
+| ------- |
+| [3812-smallest-palindromic-rearrangement-i](https://github.com/tusharsinghbisht/leetcode/tree/master/3812-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
